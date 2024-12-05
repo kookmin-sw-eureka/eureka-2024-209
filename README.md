@@ -20,9 +20,9 @@
 > 
 > *인공지능 분야, 웹 개발 분야, 게임*
 
-<img src="https://github.com/user-attachments/assets/439955bb-cd35-4f1b-a02a-5d836ff4c423" width="260" height="160" />            　
-<img src="https://github.com/user-attachments/assets/3ce91566-bcfd-4498-a732-59dd11430015" width="160" height="160" />            　
-<img src="https://github.com/user-attachments/assets/ffd7c89e-7b1d-43ee-9044-92f91b16e9d5" width="260" height="160" />    
+<img src="https://github.com/user-attachments/assets/439955bb-cd35-4f1b-a02a-5d836ff4c423" width="206" height="128" />            　
+<img src="https://github.com/user-attachments/assets/3ce91566-bcfd-4498-a732-59dd11430015" width="128" height="128" />            　
+<img src="https://github.com/user-attachments/assets/ffd7c89e-7b1d-43ee-9044-92f91b16e9d5" width="206" height="128" />    
 
 
 ## 2. 활동 내용
